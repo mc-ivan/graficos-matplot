@@ -6,6 +6,7 @@
 - Ruben Baltazar B.
 - Never Adrian
 - Luis Alberto Martinez
+- Oscar Loayza
 - Ivan Mamani
 
 ---
